@@ -1,0 +1,27 @@
+{
+  "debug": "true",
+  "logs": "true",
+    "Folders": [
+        "Media",
+        "Music",
+        "Karaoke",
+        "D:\\Documentos\\Karaoke Music Library",
+        "D:\\Documentos\\Duo regional de los valles"
+    ],
+  "allowedExtensions": [
+    ".wav",
+    ".wmv",
+    ".wma",
+    ".flv",
+    ".m4a",
+    ".mov",
+    ".ogg",
+    ".webm",
+    ".vob",
+    ".3gp",
+    ".avi",
+    ".mp4",
+    ".mp3"
+  ],
+  "dbname":  "data.db"
+}
