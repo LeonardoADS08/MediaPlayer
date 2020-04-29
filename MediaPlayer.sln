@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{E3F0952E-237B-4CB8-BFCD-48D7143F5350}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media Player", "Karaoke\Media Player.csproj", "{195E2E98-F5CB-4B95-BB61-CBEFC5E9DE38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media Player", "Media Player\Media Player.csproj", "{195E2E98-F5CB-4B95-BB61-CBEFC5E9DE38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

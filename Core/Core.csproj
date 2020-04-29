@@ -65,7 +65,7 @@
 
   <ItemGroup>
     <PackageReference Include="FFME.Windows" Version="4.2.330" />
-    <PackageReference Include="LiteDB" Version="5.0.3" />
+    <PackageReference Include="LiteDB" Version="5.0.7" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="String.Similarity" Version="3.0.0" />
   </ItemGroup>
